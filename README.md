@@ -68,3 +68,10 @@ Made with ❤️ by Manigandan.
 
 ## Output
 
+**Product Mix Optimization**  
+
+![Image](https://github.com/user-attachments/assets/bbc644b1-27c8-4703-a2a0-e30400398334)
+
+**Transportation Problem**  
+
+![Image](https://github.com/user-attachments/assets/9a5b4e6b-25c9-4f8a-868e-b783523073c1)
