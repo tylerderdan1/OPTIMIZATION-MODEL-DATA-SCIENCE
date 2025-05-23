@@ -66,6 +66,7 @@ The project demonstrates how to formulate, solve, and interpret optimization mod
 
 Made with ❤️ by Manigandan.
 
+
 ## Output
 
 **Product Mix Optimization**  
